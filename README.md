@@ -2,6 +2,7 @@
 ##### The lightweight css library  
    
 Browsers Supported
+
 |Browser|Versions|
 |:------:|:------:|
 | Chrome |21.0+|
